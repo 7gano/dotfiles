@@ -1,0 +1,29 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Dec 26 21:42:59 2012
+;; Desktop file format version 206
+;; Emacs version 24.2.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("ruby-blo" "emacswi" "inf-" "inf-ruby-setup-keybindings" "inf-rub" "inf" "ruby" "indent" "inf" "ruby" "inf" "inf-ruby-keys" "newline" "kbd" "newline" "new-line"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/Dropbox/.emacs.d/elpa/inf-ruby-2.2.4/" "~/.emacs.d/" "~/.emacs.d/init.el" "~/rails/helloworld/" "~/.emacs.d/" "~/.emacs.d/init.el" "~/ruby-test.rb" "~/.emacs.d/init.el" "~/ruby-test.rb" "~/ruby-test." "~/ruby-test.rb" "~/.emacs.d/init.el" "~/ruby-test.rb" "~/.emacs.d/init.el" "~/ruby-test.rb" "/Users/nagano/.emacs.d/init.el" "~/.emacs.d/init.el" "~/junk/7-9.el" "~/junk/" "~/junk/6-9.el" "/tmp/store-test.el" "~/junk/6-7.el" "~/.emacs.d/" "~/junk/" "~/.emacs.d/init.el" "~/junk/6-2.el" "/Applications/" "find-file" "" "~/junk/" "~/junk/5-4.el" "~/junk/3-7.el" "~/.emacs.d/init.el" "~/junk/3-7.el" "~/junk/2012/12/" "~/junk/2012/12/06-090057.el" "~/.emacs.d/init.el" "~/ema(require 'auto-complete-config)" "~/test.rb" "~/.emacs.d/init.el" "~/" "~/.emacs.d/init.el" "~/.emacs.d/" "~/.emacs.d/init.el" "~/.emacs.d/" "~/.emacs.d/init.el" "~/emacs‘¤Ç‘¤ä‘¤ê‘¤¿‘¤¤‘¤³‘¤È"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/nagano/Dropbox/.emacs.d/elpa/inf-ruby-2.2.4/inf-ruby.el"
+  "inf-ruby.el"
+  'emacs-lisp-mode
+  '(paredit-mode auto-async-byte-compile-mode auto-complete-mode eldoc-mode)
+  13014
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
